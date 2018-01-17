@@ -3,3 +3,8 @@
 __pycache__
 core/__pycache__
 screenshots
+.vscode
+.DS_Store
+dist
+build
+main.spec
